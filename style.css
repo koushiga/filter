@@ -1,0 +1,42 @@
+*{
+margin:10px 10px;
+box-sizing:border-box;
+font-family: 'Poppins', sans-serif;
+}
+#myDIV {
+  height:150px;
+  background-color:#FFFFFF;
+}
+#myImg { 
+  filter: none;
+}
+#myImg2{ 
+  filter: blur(5px);
+}
+#myImg3{ 
+  filter: brightness(200%);
+}
+#myImg4{ 
+  filter: grayscale(100%);
+}
+#myImg5{ 
+  filter: invert(100%);
+}
+#myImg6{ 
+  filter: hue-rotate(90deg);
+}
+#myImg7{ 
+  filter: opacity(30%);
+}
+#myImg8{ 
+  filter: contrast(50%);
+}
+#myImg9{ 
+  filter: drop-shadow(8px 8px 10px gray);
+}
+#myImg10{ 
+  filter: saturate(8);
+}
+#myImg11{ 
+  filter: sepia(100%);
+}
